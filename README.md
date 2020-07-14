@@ -1,2 +1,2 @@
-# hello-word
+# hello-world
 You need a description
